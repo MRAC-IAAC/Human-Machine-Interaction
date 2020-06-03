@@ -29,6 +29,11 @@ the robot.
 ## Workflow
 ![](Images/workflow.jpg)
 
+![](Images/workflow2.jpg)
+
+
+
+
 
 
 
